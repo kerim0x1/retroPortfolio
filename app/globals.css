@@ -37,6 +37,7 @@ body {
   border-bottom: 2px solid;
   margin-bottom: 5px;
 }
+
 .portfolio-section p {
   margin: 5px 0;
 }
@@ -44,6 +45,8 @@ body {
   border-top: 1px dashed;
   margin: 10px 0;
 }
+
+
 .sub-section {
   margin-left: 15px;
 }
