@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <div className="window">
         <div className="title-bar">
-          <div className="title-bar-text">Kerim's Portfolio - Windows 98 Edition</div>
+          <div className="title-bar-text">Kerim — Windows 98 Edition</div>
           <div className="title-bar-controls">
             <button aria-label="Minimize"></button>
             <button aria-label="Maximize"></button>
@@ -72,41 +72,6 @@ export default function Home() {
           </div>
 
           <div className="portfolio-section">
-            <h2>Projects & Achievements</h2>
-            <div className="sub-section">
-              <h3>Highlighted Projects</h3>
-              <p>I've worked on a variety of impactful projects, including:</p>
-              <div className="project-list">
-                <div className="project-item"><strong>Windows System Optimization Software with AI Support</strong> - Developed a custom software to enhance Windows system performance with an integrated AI agent.</div>
-                <div className="project-item"><strong>Full-Stack Websites with SEO Optimization</strong> - Launched multiple websites achieving a 99/100 Lighthouse rating through meticulous optimization.</div>
-                <div className="project-item"><strong>Real-Time Dashboards</strong> - Created high-performance dashboards with live data integration for seamless user experiences.</div>
-                <div className="project-item"><strong>Real Estate and E-Commerce Client Sites</strong> - Delivered complete solutions from design to code for various client projects.</div>
-                <div className="project-item"><strong>Consulting on Load Times and UX</strong> - Provided expert advice to optimize loading times and improve user experience for external projects.</div>
-              </div>
-            </div>
-            <div className="divider"></div>
-            <div className="sub-section">
-              <h3>Project Portfolio</h3>
-              <p>Below are some of the projects I've developed or contributed to:</p>
-              <div className="project-list">
-                <div className="project-item"><a href="https://www.wibify.de/" target="_blank" rel="noopener noreferrer">Wibify</a> - My own digital agency offering innovative web solutions.</div>
-                <div className="project-item"><a href="https://umzugsservice-swiss.ch/" target="_blank" rel="noopener noreferrer">Umzugsservice Swiss</a> - A moving service platform in Switzerland.</div>
-                <div className="project-item"><a href="https://production-order.com/" target="_blank" rel="noopener noreferrer">Production Order</a> - A platform for managing production orders.</div>
-                <div className="project-item"><a href="https://www.gesund-zufuss.de/" target="_blank" rel="noopener noreferrer">Gesund Zu Fuß</a> - A health-focused website promoting walking for wellness.</div>
-                <div className="project-item"><a href="https://www.autogutachten.info/" target="_blank" rel="noopener noreferrer">Auto Gutachten</a> - A site for car appraisals and expert opinions.</div>
-                <div className="project-item"><a href="https://unfallfix24.de/" target="_blank" rel="noopener noreferrer">Unfallfix24</a> - A service for quick accident repairs and support.</div>
-                <div className="project-item"><a href="https://win-tweaks.com/" target="_blank" rel="noopener noreferrer">Win Tweaks</a> - My Windows optimization tool with AI integration.</div>
-                <div className="project-item"><a href="http://eiscafelisa.de" target="_blank" rel="noopener noreferrer">Eiscafe Lisa</a> - A website for a local ice cream cafe.</div>
-                <div className="project-item"><a href="http://viralvision-management.com" target="_blank" rel="noopener noreferrer">ViralVision Management</a> - A management service for viral marketing campaigns.</div>
-                <div className="project-item"><a href="https://www.service-alltagshelfer.de/" target="_blank" rel="noopener noreferrer">Service Alltagshelfer</a> - A platform for everyday assistance services.</div>
-                <div className="project-item"><a href="https://rscartec.de/" target="_blank" rel="noopener noreferrer">RS Cartec</a> - A car service and repair website.</div>
-                <div className="project-item"><a href="https://automobilzentrumrheinneckar.vercel.app/" target="_blank" rel="noopener noreferrer">Automobilzentrum Rhein-Neckar</a> - A car center service platform.</div>
-                <div className="project-item"><a href="https://custom-forms-brown.vercel.app/" target="_blank" rel="noopener noreferrer">Custom Forms</a> - A customizable form-building tool.</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="portfolio-section">
             <h2>Leisure & Interests</h2>
             <div className="sub-section">
               <p><strong>Motorsport Enthusiast</strong> - Actively engaged in racing with a personal racing kit.</p>
@@ -128,11 +93,21 @@ export default function Home() {
           <div className="portfolio-section">
             <h2>Contact</h2>
             <div className="sub-section">
-              <p>Email: myemail@example.com</p>
+              <p>
+                Email: <a href="mailto:contact@kerim0x1.com">contact@kerim0x1.com</a>
+              </p>
             </div>
             <div className="divider"></div>
             <div className="sub-section">
-              <p>Phone: (123) 456-7890</p>
+              <p>
+                Website: <a href="https://kerim0x1.com" target="_blank" rel="noopener noreferrer">kerim0x1.com</a>
+              </p>
+            </div>
+            <div className="divider"></div>
+            <div className="sub-section">
+              <p>
+                Twitter: <a href="https://x.com/kerim0x1" target="_blank" rel="noopener noreferrer">@kerim0x1</a>
+              </p>
             </div>
           </div>
         </div>

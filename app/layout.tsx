@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kerim – Retro Portfolio",
-  description: "Windows 98–style portfolio of Kerim: self‑taught full‑stack developer & UI/UX designer.",
+  title: "Kerim — Windows 98 Edition",
+  description: "Windows 98–style personal site of Kerim: self‑taught full‑stack developer & UI/UX designer.",
 };
 
 export default function RootLayout({
