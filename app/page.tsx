@@ -1,4 +1,3 @@
-// Retro Windows 98 style landing page for Kerim
 
 export default function Home() {
     return (
@@ -89,6 +88,19 @@ export default function Home() {
 
                     <div className="portfolio-section">
                         <h3>Contact</h3>
+         
+                        <div className="sub-section">
+                            <p>
+                                Twitter: <a href="https://x.com/kerim0x1" target="_blank" rel="noopener noreferrer">@kerim0x1</a>
+                            </p>
+                        </div>
+                        <div className="divider"></div>
+                        <div className="sub-section">
+                            <p>
+                                Github: <a href="https://github.com/kerim0x1" target="_blank" rel="noopener noreferrer">@kerim0x1</a>
+                            </p>
+                        </div>
+                        <div className="divider"></div>
                         <div className="sub-section">
                             <p>
                                 Email: <a href="mailto:contact@kerim0x1.com">contact@kerim0x1.com</a>
@@ -98,12 +110,6 @@ export default function Home() {
                         <div className="sub-section">
                             <p>
                                 Website: <a href="https://kerim0x1.com" target="_blank" rel="noopener noreferrer">kerim0x1.com</a>
-                            </p>
-                        </div>
-                        <div className="divider"></div>
-                        <div className="sub-section">
-                            <p>
-                                Twitter: <a href="https://x.com/kerim0x1" target="_blank" rel="noopener noreferrer">@kerim0x1</a>
                             </p>
                         </div>
                     </div>
