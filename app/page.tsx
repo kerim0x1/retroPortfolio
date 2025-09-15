@@ -61,6 +61,28 @@ export default function Home() {
                         <p><strong>Additional Tools:</strong> Notion</p>
                     </div>
                     <div className="divider"></div>
+                    <div className="portfolio-section">
+                        <h3>Portfolio</h3>
+                        <div className="project-list">
+                            <div className="project-item">
+                                <p>
+                                    <strong>
+                                        <a href="https://freeforms0.vercel.app/" target="_blank" rel="noopener noreferrer">FreeForms0</a>
+                                    </strong>
+                                </p>
+                                <p>free forms creator backend by ai, customize themes and stlying</p>
+                            </div>
+                            <div className="project-item">
+                                <p>
+                                    <strong>
+                                        <a href="https://win-tweaks.com/" target="_blank" rel="noopener noreferrer">WinTweaks</a>
+                                    </strong>
+                                </p>
+                                <p>(Tweaking GamingPCs for up to 400% more perfomance, with NextJS, Electron, web and desktop software backed by ai agents</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="divider"></div>
                     <div className="sub-section">
                         <h4>Skid Tools</h4>
                         <p><strong>Windsurf</strong> — AI‑powered IDE and agentic coding assistant for rapid, reliable development.</p>
